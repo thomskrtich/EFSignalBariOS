@@ -9,7 +9,6 @@ Displays signal stregth using an iOS11 style signal bar
                        DESC
 
   s.homepage         = 'https://github.com/erhiesfeka/EFSignalBariOS'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Erhies Feka' => 'erhiesfeka@yahoo.com' }
   s.source           = { :git => 'https://github.com/erhiesfeka/EFSignalBariOS.git', :tag => s.version.to_s }
 
